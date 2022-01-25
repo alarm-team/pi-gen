@@ -1,0 +1,5 @@
+ansible
+git
+build-essential
+vim
+python3-pip
